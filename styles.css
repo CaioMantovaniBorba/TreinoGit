@@ -27,3 +27,8 @@ button {
   margin-bottom: 16px;
   font-weight: bold;
 }
+
+button:hover {
+  cursor: pointer;
+  filter: brightness(90%);
+}
